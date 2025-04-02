@@ -17,6 +17,7 @@ body {
 .s {
     width: 200px;
     height: 200px;
+    border-radius: 7px;
 }
 
 .h2sq {
@@ -83,6 +84,11 @@ body {
 
 .oaud {
     text-decoration: none;
+}
+
+.eashe {
+    text-decoration: none solid black;
+    color: #000000;
 }
 
 .icon {
